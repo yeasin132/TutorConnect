@@ -1,0 +1,15 @@
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\bin\Debug\net9.0\TutorConnect.Services.deps.json
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\bin\Debug\net9.0\TutorConnect.Services.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\bin\Debug\net9.0\TutorConnect.Services.pdb
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\bin\Debug\net9.0\TutorConnect.Core.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\bin\Debug\net9.0\TutorConnect.Core.pdb
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.csproj.AssemblyReference.cache
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.AssemblyInfoInputs.cache
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.AssemblyInfo.cs
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.csproj.CoreCompileInputs.cache
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorCon.3CEC72CC.Up2Date
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\refint\TutorConnect.Services.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\TutorConnect.Services.pdb
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Services\obj\Debug\net9.0\ref\TutorConnect.Services.dll
