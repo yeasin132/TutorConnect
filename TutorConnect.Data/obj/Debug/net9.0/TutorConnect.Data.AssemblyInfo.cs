@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TutorConnect.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b257faa4f15344d0e82b83f4fd7ff310f2793f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TutorConnect.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TutorConnect.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

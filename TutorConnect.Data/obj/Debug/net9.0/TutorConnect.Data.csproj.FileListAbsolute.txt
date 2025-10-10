@@ -15,3 +15,4 @@ C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Data\obj\Debug\net9.
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Data\obj\Debug\net9.0\refint\TutorConnect.Data.dll
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Data\obj\Debug\net9.0\TutorConnect.Data.pdb
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Data\obj\Debug\net9.0\ref\TutorConnect.Data.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Data\obj\Debug\net9.0\TutorConnect.Data.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Core\obj\Debug\net9.
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Core\obj\Debug\net9.0\refint\TutorConnect.Core.dll
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Core\obj\Debug\net9.0\TutorConnect.Core.pdb
 C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Core\obj\Debug\net9.0\ref\TutorConnect.Core.dll
+C:\Users\BS01258\source\repos\TutorConnect.web\TutorConnect.Core\obj\Debug\net9.0\TutorConnect.Core.sourcelink.json
